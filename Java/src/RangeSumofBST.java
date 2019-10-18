@@ -5,7 +5,7 @@ public class RangeSumofBST {
     // TODO Auto-generated method stub
     Solution s;
     TreeNode t=new TreeNode(2);
-    s.rangeSumBST(root, 1, R);
+//    s.rangeSumBST(root, 1, R);
   }
 
   
