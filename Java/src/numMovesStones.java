@@ -18,6 +18,7 @@ public class numMovesStones {
     myList.add(a);
     myList.add(b);
     myList.add(c);
+    myList.sort(null);
     a=(int) myList.get(0);
     b=(int) myList.get(1);
     c=(int) myList.get(2);
